@@ -1,0 +1,1 @@
+var playlist = { 'the beatles': 'yellow submarine' }
